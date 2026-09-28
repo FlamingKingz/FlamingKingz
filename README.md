@@ -36,10 +36,8 @@ Currently serving as the **Secretary of IEEE IEM RAS (Robotics & Automation)** a
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlamingKingz&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamingKingz&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlamingKingz&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/FlamingKingz)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlamingKingz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/FlamingKingz)
 
 ### 📫 Let's Connect
 
