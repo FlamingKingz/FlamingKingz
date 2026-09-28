@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Rajarshi Dhara 👋
 
-<!--
-**FlamingKingz/FlamingKingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year BTech Electronics and Communication Engineering student at IEM Kolkata, specializing in embedded systems, IoT, and AI integration. I bridge the gap between hardware prototyping and software development. 
 
-Here are some ideas to get you started:
+Currently serving as the **Secretary of IEEE IEM RAS (Robotics & Automation)** and gearing up to take charge as the **Chairperson of IEEE IEM NPSS (Nuclear & Plasma Sciences)** in 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I do
+* **Hardware & IoT:** Designing embedded systems and smart automation using ESP32, Arduino, Raspberry Pi, and LiDAR.
+* **Software & AI:** Building AI/ML tools, chatbot integrations, and full-stack solutions (like my Smart Campus Planner).
+* **Research:** Completed a specialized AI & IoT Study Abroad Program at the National University of Singapore (NUS).
+
+### 💻 Tech Stack
+* **Languages:** Python, C, C++, Java, TypeScript, MATLAB
+* **Hardware:** ESP32, Arduino, NodeMCU, Raspberry Pi, Gyro/Sensors
+* **Frameworks/Tools:** ROS2, Blynk IoT, OpenCV, LTSpice, Tableau
+
+### 📊 GitHub Stats
+[![Rajarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlamingKingz&show_icons=true&theme=tokyonight)](https://github.com/FlamingKingz)
+
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/rajarshi-dhara](https://www.linkedin.com/in/rajarshi-dhara)
+* **Email:** rajarshindhara@gmail.com
