@@ -34,11 +34,6 @@ Currently serving as the **Secretary of IEEE IEM RAS (Robotics & Automation)** a
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📊 GitHub Analytics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlamingKingz&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/FlamingKingz)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlamingKingz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/FlamingKingz)
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajarshi-dhara)
